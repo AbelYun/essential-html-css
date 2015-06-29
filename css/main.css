@@ -95,6 +95,7 @@ dt{
 }
 
 dd{
+	margin:0;
 	font-size: 80%;
 	font-style: italic;
 	padding-bottom: 1em;
